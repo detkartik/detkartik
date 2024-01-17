@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on **CODE-IGNITER FRAMEWORK** and **PYTHON DJANGO**<br>👯 I’m looking to collaborate on **FRONT END OR FULL STACK PROJECTS WITH ANGULAR/REACT AND DJANGO OR PHP FRAMEWORKS**<br>🤝 I’m looking for help with **FRONT-END FRAMEWORKS SUCH AS ANGULAR AND REACT** <br>🌱 I’m currently learning **DATA SCIENCE AND MACHINE LEARNING**  <br>💬 Ask me about **HTML,JAVSCRIPT,CSS,BOOTSTRAP,PYTHON,PHP**<br>⚡ Fun fact **I LIKE COOKING**
+<h2 align="center">Hi 👋 !! I am Kartik,</h2> 
+<h3 align="center"> A Passionate Software Engineer </h3>
+
+## 💫 About Me:
+🔭 I’m currently working on **SELF IMPROVEMENT PROJECTS**<br>👯 I’m looking to collaborate on **FRONT END OR FULL STACK PROJECTS WITH ANGULAR/REACT AND DJANGO OR PHP FRAMEWORKS**<br>🤝 I’m looking for help with **GETTING FREELANCE PROJECTS** <br>🌱 I’m currently learning **DATA SCIENCE AND MACHINE LEARNING,ANGULAR,FLUTTER**  <br>💬 Ask me about **HTML,JAVSCRIPT,CSS,BOOTSTRAP,PYTHON,PHP**<br>
 
 
 ## 🌐 Socials:
